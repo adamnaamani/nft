@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Street Name",
+      "value": "Nelson"
+    },
+    {
+      "trait_type": "Street Number",
+      "value": "1771"
+    }
+  ],
+  "description": "Creator Headquarters.",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmby9QErY9tk5ivnM2bxCYuCRukEceYUtVEaT8FtmmK8cf",
+  "name": "1771 Nelson"
+}
